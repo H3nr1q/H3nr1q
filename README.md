@@ -1,7 +1,7 @@
 # Olá 👋
 
 # Sou Carlos Henrique, Desenvolvedor Brasileiro Full-Stack
-Trabalho a 10 anos com tecnologia, e desde 2021 fiz a transição de carreira para desenolvedor de sistemas.
+Trabalho há 10 anos com tecnologia, e desde 2021 fiz a transição de carreira para Desenolvedor de Sistemas 😎.
 <br>Sou uma pessoa pró-ativa que sempre esta em busca de conhecimento.
 ___
 ## Conhecimento Técnico
